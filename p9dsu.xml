@@ -8271,7 +8271,7 @@
 	</attribute>
 	<attribute>
 		<id>PGPE_HCODE_FUNCTION_ENABLE</id>
-		<default></default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>PHYP_SYSTEM_TYPE</id>
