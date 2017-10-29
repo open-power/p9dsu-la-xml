@@ -11608,7 +11608,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RESCLK_DISABLE</id>
-		<default>0x00</default>
+		<default>ON</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RESCLK_STEP_DELAY</id>
